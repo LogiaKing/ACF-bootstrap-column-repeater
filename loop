@@ -21,7 +21,6 @@
 
         <?php
             $rowCount++;
-            // Add bootstrap row after ... rows
             if ($rowCount % $numOfCols == 0) echo '</div><div class="row">';
         ?>
 
