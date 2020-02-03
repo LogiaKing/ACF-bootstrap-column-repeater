@@ -15,7 +15,7 @@
 
             <div class="col-md-<?php echo $bootstrapColWidth; ?>">
 				<img src="<?php the_sub_field('photo'); ?>">
-                <h2 class="white-team"><?php the_sub_field('name'); ?></h2>
+                <h2><?php the_sub_field('name'); ?></h2>
 				<p><?php the_sub_field('job_title');?></p>
             </div>
 
