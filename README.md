@@ -1,2 +1,2 @@
-# ACF-bootstrap-column-repeater
+# ACFBootstrapColumnRepeater
 Advanced Custom Fields repeater loop for Bootstrap columns
