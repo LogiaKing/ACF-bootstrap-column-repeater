@@ -1,5 +1,4 @@
 <?php if ( have_rows('staff') ) : ?>  
-    <!-- if repeater ... -->
     <div class="container">
         <div class="row">
 
